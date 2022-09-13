@@ -1,4 +1,4 @@
-# code-refactor
+# Horiseon-code-refactor
 
 ## Description
 I generally improved the accessibility standards of the webpage. The source code was altered 
