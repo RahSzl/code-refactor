@@ -7,7 +7,9 @@ on the webpage. I made sure all of the heading attrubutes were in sequential ord
 elements were organized in a logical way. And finally, I added a more decriptive title to the webpage and optimized the CSS file.
 
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/images/page1.png.png)
-(./Assets/images/page2.png.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/images/page1.png.png)(./Assets/images/page2.png.png)
+
+
+https://rahsanlewis.github.io/code-refactor/
 
 Repository contains quality readme with description, screenshot, link to deployed application.
