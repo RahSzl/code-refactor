@@ -12,7 +12,9 @@ elements were organized in a logical way. And finally, I added a more decriptive
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/page2.png)
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/page1.png)
+![Screenshot](./assets/page1.png)
+
+![Screenshot](./assets/page3.png)
 
 
 ## Link to website
