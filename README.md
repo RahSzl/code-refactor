@@ -17,4 +17,4 @@ elements were organized in a logical way. And finally, I added a more decriptive
 
 ## Link to website
 
-https://rahsanlewis.github.io/code-refactor/
+https://rahsanlewis.github.io/Horiseon-code-refactor/
